@@ -1,0 +1,10 @@
+@SPECIFY container_1.env
+ADMINUSER::input
+ADMINPASS::input
+HOSTNAME::input
+SECRETKEY::random
+CONT2USER::input
+CONT2PASS::input
+@SPECIFY container_2.env
+USERNAME_FOR_CONT1::input
+PASSWORD_FOR_CONT1::input
